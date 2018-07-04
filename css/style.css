@@ -1,0 +1,104 @@
+h2 {
+	text-align: center;
+}
+hr {
+	color: black;
+}
+.characters {
+	margin-bottom: 50px;
+}
+.input-circle {
+	border: 1px solid gray;
+	margin-left: 8px;
+	padding-left: 10px;
+	width: 90px;
+	height: 40px;
+	border-radius: 10px;
+	border-color: gray;
+}
+.min {
+	font-size: 10px;
+	text-align: left;
+	margin-top: 5px;
+	margin-left: -10px;
+}
+a {
+	color: black;
+	margin-left: 160px;
+	font-size: 12px;
+}
+a:hover {
+	text-decoration: none;
+}
+button {
+	margin-top: 15px;
+	color: #fff;
+	font-size: 20px;
+	font-weight: 700;
+	background-color: #c60000;
+	border: none;
+	height: 60px;
+	width: 200px;
+	border-radius: 10px;
+}
+button:active {
+	background-color: #ff0000;
+}
+button:hover {
+	background-color: #d81717;
+}
+p span.content-gray {
+	color: gray;
+	font-weight: 900;
+	font-size: 17px;
+}
+p span.content-red {
+	color: red;
+	font-size: 23px;
+	font-weight: 700;
+	text-align: center;
+}
+p span.content-black {
+	color: black;
+	font-weight: 700;
+	font-size: 17px;
+}
+.row-two {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.content-green {
+	color: green;
+	font-weight: 700;
+	font-size: 17px;
+}
+.fa-users {
+	margin-top: 4px;
+	margin-bottom: 17px;
+	font-size: 25px;
+	margin-left: 40px;
+}
+.fa-clock {
+	margin-bottom: 17px;
+	margin-left: 40px;
+	font-size: 25px;
+}
+.fa-truck {
+	color: green;
+	font-size: 25px;
+	margin-left: 40px;
+}
+.bored {
+	line-height: 1.9;
+}
+img {
+	width: 40px;
+	height: 40px;
+}
+.column {
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	border: 1px solid gray;
+}
